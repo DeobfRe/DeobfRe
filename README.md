@@ -21,7 +21,7 @@
 </picture>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=deobfre&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=deobfre&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
