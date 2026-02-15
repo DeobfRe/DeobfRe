@@ -20,7 +20,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DeobfRe/DeobfRe/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph)_
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deobfre&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=deobfre&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
